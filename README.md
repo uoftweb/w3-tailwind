@@ -4,13 +4,13 @@ Want to make your CSS simple and efficient? Say goodbye to random class names an
 
 ## Outline
 
-1. What is Tailwind?
-2. Philosophy and Concepts
-3. How to Install
-4. Overview of utility classes
-5. Build a "Call to Action" component: ![image](https://user-images.githubusercontent.com/8302959/109545083-600bc800-7a96-11eb-932e-3a2021d1f7c9.png)
-6. Extending Tailwind
-7. Component Libraries
+1. **What is Tailwind?**
+2. **Philosophy and Concepts**
+3. **How to Install**
+4. **Overview of utility classes**
+5. **Build a "Call to Action" component**: ![image](https://user-images.githubusercontent.com/8302959/109545083-600bc800-7a96-11eb-932e-3a2021d1f7c9.png)
+6. **Extending Tailwind**
+7. **Component Libraries**
 
 ## Instructions - pre-demo
 
