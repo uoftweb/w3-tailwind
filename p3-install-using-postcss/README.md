@@ -11,7 +11,7 @@ $ npm run build
 
 This should create a file called `out/compiled.css` that is referenced in the `index.html` file.
 
-## What dependecies are we using?
+## What dependencies are we using?
 
 In this example, we've set up a Node project with the following developer dependencies:
 
