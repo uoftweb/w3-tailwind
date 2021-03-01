@@ -12,6 +12,18 @@ Want to make your CSS simple and efficient? Say goodbye to random class names an
 6. **Extending Tailwind**
 7. **Component Libraries**
 
+## Prerequisites
+
+- A computer with internet access and some basic knowledge of how to use the terminal
+- Node.js and NPM installed. For reference, these are the versions I have installed on my machine, but any recent version should do:
+
+```shell
+$ node -v
+v14.15.1
+$ npm -v
+6.14.8
+```
+
 ## Instructions - pre-demo
 
 1. In the top right corner, click the `Fork` button. Please fork this repo to your own GitHub account.
