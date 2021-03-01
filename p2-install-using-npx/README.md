@@ -1,4 +1,4 @@
-# Install using NPX
+# Part 2: Install using NPX
 
 Run this command in a terminal to generate `tailwind.css` file:
 
