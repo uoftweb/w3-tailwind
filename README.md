@@ -2,6 +2,16 @@
 
 Want to make your CSS simple and efficient? Say goodbye to random class names and the pain of CSS with Tailwind CSS! In this workshop we will teach you how to install Tailwind, apply the (philosophy/best practices) of the library, use the library to create a simple UI, and even extend the library with plugins and themes.
 
+## Outline
+
+1. What is Tailwind?
+2. Philosophy and Concepts
+3. How to Install
+4. Overview of utility classes
+5. Build a "Call to Action" component: ![image](https://user-images.githubusercontent.com/8302959/109545083-600bc800-7a96-11eb-932e-3a2021d1f7c9.png)
+6. Extending Tailwind
+7. Component Libraries
+
 ## Instructions - pre-demo
 
 1. In the top right corner, click the `Fork` button. Please fork this repo to your own GitHub account.
@@ -18,6 +28,8 @@ The link to the live share session will be shared during the workshop.
 
 The repository will also be updated live during the demo so if the live sharing session does not work for you,
 do not worry! You can always copy the code from this repo once it has been committed.
+
+
 
 ## Links
 
