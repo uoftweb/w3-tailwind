@@ -1,5 +1,7 @@
 # Deep Dive into Utility-first CSS with Tailwind
 
+Want to make your CSS simple and efficient? Say goodbye to random class names and the pain of CSS with Tailwind CSS! In this workshop we will teach you how to install Tailwind, apply the (philosophy/best practices) of the library, use the library to create a simple UI, and even extend the library with plugins and themes.
+
 ## Instructions - pre-demo
 
 1. In the top right corner, click the `Fork` button. Please fork this repo to your own GitHub account.
