@@ -29,11 +29,10 @@ The link to the live share session will be shared during the workshop.
 The repository will also be updated live during the demo so if the live sharing session does not work for you,
 do not worry! You can always copy the code from this repo once it has been committed.
 
-
-
 ## Links
 
 - Tailwind: https://tailwindcss.com/
+- VSCode Extension: https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 - Playground: https://play.tailwindcss.com/
 - Install using CDN: https://tailwindcss.com/docs/installation#using-tailwind-via-cdn
 - Install using NPX: https://tailwindcss.com/docs/installation#using-tailwind-without-post-css
