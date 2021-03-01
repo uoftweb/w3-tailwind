@@ -1,0 +1,16 @@
+{
+  "name": "p5-extend-tailwind",
+  "version": "1.0.0",
+  "description": "Demo of extending Tailwind for a blog layout",
+  "scripts": {
+    "build": "npx postcss styles.css -o out/compiled.css"
+  },
+  "author": "UofT Web Dev Club",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.3"
+  }
+}
