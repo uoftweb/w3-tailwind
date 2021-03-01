@@ -33,3 +33,9 @@ module.exports = {
   ],
 };
 ```
+
+Finally, re-build your CSS file:
+
+```shell
+$ npm run build
+```
