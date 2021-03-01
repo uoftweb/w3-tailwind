@@ -1,4 +1,4 @@
-# [Insert Workshop Title]
+# Deep Dive into Utility-first CSS with Tailwind
 
 ## Instructions - pre-demo
 
